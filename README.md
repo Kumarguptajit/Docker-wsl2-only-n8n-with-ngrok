@@ -16,5 +16,5 @@ It also supports **basic authentication** for securing your n8n instance.
 ## 2. Clone Repo
 
 ```bash
-git clone https://github.com/yourname/docker-n8n-setup.git
+git clone https://github.com/yourname/docker-n8n-setup.git](https://github.com/Kumarguptajit/Docker-wsl2-only-n8n-with-ngrok.git
 cd docker-n8n-setup
